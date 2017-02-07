@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.stem.solvers.fd:FiniteDifference xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.stem.solvers.fd="http:///org/eclipse/stem/solvers/fd" uRI="platform:/resource/DenguePhilippinesGeneric/solvers/Simple.fd" typeURI="stemtype://org.eclipse.stem/Solver">
+  <dublinCore title="Solver" identifier="platform:/resource/DenguePhilippinesGeneric/solvers/Simple.fd" description="!dc_desc_solver!" creator="larara" format="http:///org/eclipse/stem/core/scenario.ecore" publisher="The Eclipse Foundation" source="!dc_source_solver!" type="stemtype://org.eclipse.stem/Solver" created="2016-05-14" license="Eclipse Public License (EPL)"/>
+</org.eclipse.stem.solvers.fd:FiniteDifference>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.stem.core.sequencer:SequentialSequencer xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.stem.core.sequencer="http:///org/eclipse/stem/core/sequencer.ecore" uRI="platform:/resource/DenguePhilippinesGeneric/sequencers/(28)February_Sequencer.sequencer" typeURI="stemtype://org.eclipse.stem/Identifiable">
+  <dublinCore title="Sequencer" identifier="platform:/resource/DenguePhilippinesGeneric/sequencers/(28)February_Sequencer.sequencer" description="Controls time and the duration of a scenario" creator="isabelle-lynnco" format="http:///org/eclipse/stem/core/sequencer.ecore" publisher="The Eclipse Foundation" source="http://wiki.eclipse.org/Creating_a_STEM_Scenario#Create_a_Sequencer   (and references there-in)" type="stemtype://org.eclipse.stem/Sequencer" created="2017-01-13" license="Eclipse Public License (EPL)" valid="start=2017-01-13;"/>
+  <startTime time="2017-02-01T12:00:00.727+0800"/>
+  <endTime time="2017-02-28T11:59:59.727+0800"/>
+</org.eclipse.stem.core.sequencer:SequentialSequencer>

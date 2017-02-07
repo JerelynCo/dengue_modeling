@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rndlab.stem.diseasemodels:DengueHostOnlyPhilippines xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rndlab.stem.diseasemodels="http:///com/ibm/rndlab/stem/diseasemodels/diseasemodels.ecore" uRI="platform:/resource/DenguePhilippinesGeneric/decorators/DengueHostOnlyPhilippines.standard" typeURI="stemtype://org.eclipse.stem/Identifiable" diseaseName="dengue" transmissionRate="0.4" recoveryRate="0.15" infectiousMortalityRate="2.9" immunityLossRate="0.167" incubationRate="0.18" ratioAedesToHuman="0.1">
+  <dublinCore title="Dengue Host Only Philippines" identifier="platform:/resource/DenguePhilippinesGeneric/decorators/DengueHostOnlyPhilippines.standard" creator="larara" format="http:///org/eclipse/stem/diseasemodels/standard.ecore" type="stemtype://org.eclipse.stem/Identifiable" created="2016-05-14"/>
+</com.ibm.rndlab.stem.diseasemodels:DengueHostOnlyPhilippines>

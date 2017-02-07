@@ -1,0 +1,20 @@
+# Data directories
+#################
+all_decorators/*
+decorators/*
+simulation_je/*
+Recorded\ Simulations/
+
+# STEM default directories
+#################
+experiments/*
+loggers/*
+modifiers/*
+predicates/*
+triggers/*
+
+# Git files
+################
+.DS_Store
+.project
+.version
