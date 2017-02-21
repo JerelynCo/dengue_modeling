@@ -2,8 +2,9 @@
 #################
 all_decorators/*
 decorators/*
-simulation_je/*
+saved_sims/*
 Recorded\ Simulations/
+v*/
 
 # STEM default directories
 #################
